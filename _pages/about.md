@@ -14,8 +14,8 @@ Research Interests
 ======
 
 - **LLM evaluation and measurement science:** moving beyond flat leaderboard averages toward models of capability, benchmark difficulty, and discrimination.
-- **Benchmark validity and auditing:** studying construct alignment, redundancy, missing observations, residual anomalies, and ranking stability.
-- **Efficient and on-device evaluation:** building reproducible pipelines for evaluating compact language models on real hardware.
+- **Agent evaluation**: studying how benchmarks measure agent capabilities such as planning, tool use, memory, and adaptation, with an emphasis on validity, robustness, and reproducibility.
+- **On-device language**： models: efficient LLM inference and evaluation on resource-constrained devices.
 
 Current Research
 ======
