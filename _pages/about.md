@@ -15,7 +15,7 @@ Research Interests
 
 - **LLM evaluation and measurement science:** moving beyond flat leaderboard averages toward models of capability, benchmark difficulty, and discrimination.
 - **Agent evaluation**: studying how benchmarks measure agent capabilities such as planning, tool use, memory, and adaptation, with an emphasis on validity, robustness, and reproducibility.
-- **On-device language**： models: efficient LLM inference and evaluation on resource-constrained devices.
+- **On-device language models**: efficient LLM inference and evaluation on resource-constrained devices.
 
 Current Research
 ======
