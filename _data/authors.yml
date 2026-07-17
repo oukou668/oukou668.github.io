@@ -16,3 +16,12 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+heng_zh:
+  name        : "Heng Wang"
+  email       : "2507816735@qq.com"
+  bio         : "大语言模型评估与可解释性"
+  avatar      : "profile.png"
+  location    : "上海"
+  employer    : "复旦大学"
+  github      : "oukou668"
