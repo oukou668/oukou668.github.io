@@ -20,7 +20,7 @@ Research Interests
 Current Research
 ======
 
-My current research develops a **meta-evaluation framework for foundation-model benchmarks**. Rather than treating a benchmark score as a direct measure of general capability, I study how performance emerges from the interaction between a model's multidimensional ability profile and the heterogeneous demands of each benchmark. Using multidimensional item response theory and an interpretable tag bridge, I estimate models' latent abilities, benchmark difficulty, and the specific capabilities emphasized by each benchmark. The goal is to produce stable, auditable summaries of model capabilities and benchmark demands, emphasizing reproducible capability tiers rather than brittle exact rankings.
+My current research develops a **meta-evaluation framework for foundation-model benchmarks**. Rather than treating a benchmark score as a direct measure of general capability, I study how performance emerges from the interaction between a model's multidimensional ability profile and the heterogeneous demands of each benchmark. Using multidimensional item response theory and an interpretable tag bridge, I recover human-readable capability profiles, evaluate benchmark validity, and test their robustness across training seeds. The goal is to produce stable, auditable summaries of model capabilities and benchmark demands, emphasizing reproducible capability tiers rather than brittle exact rankings.
 
 Selected Projects
 ======
