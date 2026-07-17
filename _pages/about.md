@@ -20,7 +20,7 @@ Research Interests
 Current Research
 ======
 
-My current research develops a **Meta-evaluation framework for model and benchmarks**. Using multidimensional item response theory and an interpretable tag bridge, I estimate model capabilities, benchmark difficulty, and the specific abilities that each benchmark primarily assesses. The goal is to produce stable, auditable summaries of model capabilities and benchmark demands, emphasizing reproducible capability tiers rather than brittle exact rankings.
+My current research develops a **Meta-evaluation framework for model and benchmarks**. Using multidimensional item response theory and an interpretable tag bridge, I estimate model capabilities, benchmark difficulty, and the specific abilities that each benchmark primarily assesses. The goal is to produce stable, auditable summaries of model capabilities and benchmark demands, emphasizing reproducible capability tiers.
 
 Projects
 ======
