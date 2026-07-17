@@ -1,5 +1,6 @@
 ---
 permalink: /
+lang: en
 title: "About Me"
 excerpt: "Postgraduate researcher at Fudan University working on LLM evaluation and measurement science."
 author_profile: true
